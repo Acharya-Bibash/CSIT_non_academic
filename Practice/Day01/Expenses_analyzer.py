@@ -1,6 +1,3 @@
-# expenses = [250, 120, 500, 80, 300, 150]
-# expenses = list(input("Enter your expenses: "))
-# print(expenses)
 expenses_ = input("Enter your expenses seperated with comma',' : ")
 exp_split = expenses_.split(",")
 expenses = []
