@@ -1,0 +1,5 @@
+1. list uses pop function to pop last elements like list.pop() list = [1,2,3,4]  after list = [1,2,3]
+2. list.clear() clears all elements in the existing list whereas del can used to delete individual elements in a list as well as a whole  list itself 
+3. Type() to compare the type or ininstance(value,type) to know weather the value is the type we needed or not.
+4. list can be added by "+" sign 
+5. converting list to set and again to list remove duplicates 
